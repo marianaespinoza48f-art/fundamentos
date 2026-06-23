@@ -1,6 +1,7 @@
 # -- Calculos y procesos---------------------------------------------------------------------
 import enviayrecolecta
 ###amo a keiry godinez :D hola
+# me le cago a Felipe
 def dice_opcion_menu(opcion): eso tilin
     """
     Evalúa la opción seleccionada del menú principal y llama a la función correspondiente en el módulo de envíayrecolecta
